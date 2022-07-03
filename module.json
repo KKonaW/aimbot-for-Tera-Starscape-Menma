@@ -1,0 +1,11 @@
+{
+	"disableAutoUpdate": false,
+	"name": "aimbot-master",
+	"author": "<font color='#FDD017'>AOC-2024</font>",
+	"description": "Aimbot for Leash, Master's Leash and Chained Leash",
+	"version": "<font color='#FC0FC0'>GF-100.02</font>",
+	"options": { 
+		"niceName": "aimbot-master",
+        "guiName": "<font color='#FDD017'>aimbot-master</font>"
+	}
+}

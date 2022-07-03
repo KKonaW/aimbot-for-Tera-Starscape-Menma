@@ -1,0 +1,6 @@
+{
+	"enable": true,
+	"debug": false,
+	"bg": true,
+	"bg_description": "Enable/disable usage in bgs."
+}
